@@ -4,8 +4,8 @@ body {
   background-color: #E0DFD5;
   font-family: 'Space Mono', mono space;
   color: #313638;
-  font-size: 12px;
-  line-height: 14px;
+  font-size: 14px;
+  line-height: 16px;
   animation: myfirst 10s;
   -moz-animation: myfirst 10s infinite;
   -webkit-animation: myfirst 10s infinite;
